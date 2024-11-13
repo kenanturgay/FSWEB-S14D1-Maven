@@ -1,12 +1,7 @@
 # Java Inheritance
 
-### Proje Kurulumu
 
-Projeyi önce forklayın daha sonra klonlayın ve Intellij kullanarak projeyi açın. 
-Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projelerimizi belli klasör kalıplarında saklamak işimizi kolaylaştırmak adına iyi bir alışkanlıktır.
-Örnek bir Lokasyon: Workintech/Sprint_1/Etud.
-
-### Hedeflerimiz:
+## Hedefler:
 
 ### Silindir
 * com.workintech.cylinder paketi altında Circle isimli bir sınıf yazınız. ```radius``` isimli bir tane sınıf değişkenine sahip olmalı. radius değişkeninin tipi ne olmalı ?
